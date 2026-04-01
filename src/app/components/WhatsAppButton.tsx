@@ -1,6 +1,6 @@
 import { MessageSquare } from 'lucide-react';
 
-const WHATSAPP_LINK = "https://wa.me/917481952818?text=Hi%20I%20want%20AI%20automation";
+const WHATSAPP_LINK = "https://wa.me/917970797116";
 
 export function WhatsAppButton() {
   return (
