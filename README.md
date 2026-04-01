@@ -1,7 +1,7 @@
 
-  # Dision AI (Community)
+  # Dision AI | Automation
 
-  This is a code bundle for Dision AI (Community). The original project is available at https://www.figma.com/design/2UQKeHkyJjqjFlIAMa7qGr/Dision-AI--Community-.
+  This is a code bundle for Dision AI | Automation. The original project is available at https://www.figma.com/design/2UQKeHkyJjqjFlIAMa7qGr/Dision-AI--Community-.
 
   ## Running the code
 
